@@ -1,23 +1,7 @@
-# tailwind-manage-landing-page
-Design a landing page using Tailwind CSS
+# Product Landing Page 
+A landing page of a fictitious product named "Manager" using Tailwind CSS
 
-# Usage
-Install dependencies (Tailwind)
+# Link
 
-```bash
-npm install
-```
-
-Run the Tailwind CLI to compile the input.css during development. The output file is css/main.css
-
-```bash
-npm run watch
-```
-
-To build once run...
-
-```bash
-npm run build
-```
 
 
